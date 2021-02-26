@@ -1,4 +1,5 @@
 # Ejercicios-Propuestos-y-Resueltos-en-C
+<pre>
 Ejercicios propuestos de programacion ATS - Ejercicios propuestos en C++
 
 
@@ -194,3 +195,4 @@ Persona
 Empleado Estudiante
 Universitario
 Ejercicio 4: Crear un programa en C++ que tenga la siguiente jerarquía de clases: Animal(Clase Padre) -> Humano(Clase Hija) -> Perro(Clase Hija), y hacer polimorfismo con el método comer().
+</pre>
